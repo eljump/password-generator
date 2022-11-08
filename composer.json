@@ -1,9 +1,9 @@
 {
-    "name": "elias/password-generator",
+    "name": "eliasjump/password-generator",
     "type": "library",
     "autoload": {
         "psr-4": {
-            "Elias\\PasswordGenerator\\": "src/"
+            "EliasJump\\PasswordGenerator\\": "src/"
         }
     },
     "authors": [

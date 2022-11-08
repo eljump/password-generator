@@ -8,7 +8,7 @@
 ## Установка
 
 ```bash
-composer require elias/password-generator
+composer require eliasjump/password-generator
 ```
 
 ## Использование:

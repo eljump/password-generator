@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Elias\PasswordGenerator;
+namespace EliasJump\PasswordGenerator;
 
 class PasswordGenerator
 {
